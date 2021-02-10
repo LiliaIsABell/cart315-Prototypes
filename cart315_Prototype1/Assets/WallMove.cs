@@ -5,7 +5,7 @@ using UnityEngine;
 public class WallMove : MonoBehaviour
 {
     public Vector3 startPos;
-    public float distance = 2f;
+    public float distance = 10f;
     
     // Start is called before the first frame update
     void Start()
